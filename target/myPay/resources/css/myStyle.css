@@ -13,6 +13,7 @@
     line-height: 200px;
     font-size: 35px;
     cursor: pointer;
+    font-family: fantasy;
 }
 .person:hover{
     background-color: greenyellow;
