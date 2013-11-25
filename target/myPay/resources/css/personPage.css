@@ -1,7 +1,7 @@
 .summary {
     width: 800px;
     margin: 30px auto auto;
-    background-color: deepskyblue;
+    background-color: forestgreen;
 }
 
 .summary .person {
@@ -12,18 +12,6 @@
     display: inline-block;
     margin-left: 20px;
     width: 500px;
-}
-
-.summary .number div{
-    display: inline-block;
-    margin-left:10px;
-    margin-top: 10px;
-    width: 100px;
-    margin-bottom: 10px;
-    background-color: white;
-    font-size: 100px;
-    text-align: center;
-    font-family: monospace;
 }
 
 .function{
@@ -38,30 +26,29 @@
     line-height: 70px;
     height: 60px;
     width: 189px;
-    background-color: yellowgreen;
+    background-color: forestgreen;
     font-family: fantasy;
     cursor: pointer;
     margin-right: 10px;
 }
 
 .function div:hover{
-    background-color: yellow;
+    background-color: #f19f0f;
 }
 
 .function_display {
     width: 800px;
-    height: 300px;
+    height: 360px;
     margin: auto;
-    background-color: yellow;
+    background-color: #f19f0f;
 }
 
 .clicked{
-    background-color: yellow;
+    background-color: #f19f0f;
 }
 
 .function_display div {
     margin-left: 20px;
-    padding-top: 20px;
     font-size: 30px;
     font-family: fantasy;
 }
@@ -69,10 +56,27 @@
 .function_display .confirm{
     margin-left: -10px;
     padding-top: 10px;
-    background-color: deepskyblue;
+    background-color: forestgreen;
     width: 758px;
     margin-top: 54px;
     text-align: right;
     padding-right: 10px;
     font-size: 40px;
+}
+
+.personList{
+    display: inline-block;
+}
+
+.personList div{
+    width: 102px;
+    height: 102px;
+    background-color: forestgreen;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+}
+
+.eat{
+    background: url('/resources/image/bowl.png') no-repeat 25px 40px;
 }

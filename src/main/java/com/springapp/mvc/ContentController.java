@@ -18,7 +18,8 @@ public class ContentController {
     public String getContent(@RequestParam("user") String user, HttpServletRequest request, Model model){
         HttpSession session = request.getSession();
         session.setAttribute("User", user);
-        model.addAttribute("User", UserConstant.getChineseName(user));
+        model.addAttribute("User", user);
+        model.addAttribute("UserChineseName", UserConstant.getChineseName(user));
         return "content";
     }
 }

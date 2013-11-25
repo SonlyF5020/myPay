@@ -4,24 +4,25 @@
     <list default="true" id="73d403c9-f6dd-4ee5-9616-4cbf677e574d" name="Default" comment="" />
     <ignored path="myPay.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/hello.jsp" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384977125844" ignored="false" />
+    <file path="/hello.jsp" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1385048707720" ignored="false" />
     <file path="/Dummy.txt" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384963190865" ignored="false" />
-    <file path="/myStyle.css" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384912012391" ignored="false" />
+    <file path="/myStyle.css" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1385049142341" ignored="false" />
     <file path="/web.xml" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384916895892" ignored="false" />
     <file path="/404.jsp" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384913446307" ignored="false" />
     <file path="/500.jsp" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384913460912" ignored="false" />
     <file path="/HelloController.java" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384916585318" ignored="false" />
     <file path="$PROJECT_DIR$/../MyWeibo/pom.xml" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384916969670" ignored="false" />
     <file path="/pom.xml" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384916967791" ignored="false" />
-    <file path="/ContentController.java" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384958486633" ignored="false" />
-    <file path="/content.jsp" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384964523636" ignored="false" />
+    <file path="/ContentController.java" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1385101418234" ignored="false" />
+    <file path="/content.jsp" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1385358190505" ignored="false" />
     <file path="/fragment.java" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384958309568" ignored="false" />
     <file path="/UserConstant.java" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384958463159" ignored="false" />
     <file path="/a.dummy" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384957905564" ignored="false" />
-    <file path="/personPage.css" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384964534636" ignored="false" />
+    <file path="/personPage.css" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1385040663027" ignored="false" />
     <file path="/__dummy.html" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384959167827" ignored="false" />
     <file path="/PayController.java" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384961668712" ignored="false" />
     <file path="/pay.jsp" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384961695226" ignored="false" />
+    <file path="/fragment.js2" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1385109279769" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +95,7 @@
       <file leaf-file-name="hello.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="14" selection-start="426" selection-end="613" vertical-scroll-proportion="-8.125">
+            <state line="12" column="38" selection-start="734" selection-end="740" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -103,7 +104,7 @@
       <file leaf-file-name="ContentController.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/ContentController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="34" selection-start="733" selection-end="737" vertical-scroll-proportion="0.0">
+            <state line="20" column="39" selection-start="786" selection-end="786" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -112,29 +113,25 @@
       <file leaf-file-name="UserConstant.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/constant/UserConstant.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="21" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#346#513#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="20" selection-start="1116" selection-end="1123" vertical-scroll-proportion="-14.958333">
+            <state line="23" column="26" selection-start="749" selection-end="757" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="personPage.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="content.jsp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="55" selection-start="673" selection-end="673" vertical-scroll-proportion="0.49418604">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="personPage.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/personPage.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="20" selection-start="1331" selection-end="1331" vertical-scroll-proportion="0.9385246">
+            <state line="3" column="33" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -152,7 +149,16 @@
       <file leaf-file-name="myStyle.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/myStyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
+            <state line="9" column="33" selection-start="175" selection-end="186" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="normalize.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/normalize.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -176,14 +182,14 @@
         <option value="$PROJECT_DIR$/src/main/webapp/resources/js/jQuery-2.0.3.min.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/js/myJS.js" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/constant/UserConstant.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/ContentController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/myStyle.css" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/PayController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/pay.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/myStyle.css" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/ContentController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/css/personPage.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content.jsp" />
       </list>
     </option>
   </component>
@@ -202,10 +208,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
+    <option name="x" value="103" />
     <option name="y" value="22" />
     <option name="width" value="1420" />
-    <option name="height" value="809" />
+    <option name="height" value="790" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -235,8 +241,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -392,6 +396,32 @@
               <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myPay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myPay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -423,8 +453,40 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myPay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myPay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="constant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -442,6 +504,9 @@
       <recent name="com.springapp.mvc.constant" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/resources/js" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/resources/css" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/resources/image" />
       <recent name="$PROJECT_DIR$/src/main/webapp" />
     </key>
   </component>
@@ -518,7 +583,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
       <JSRemoteDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSRemoteDebuggerConfigurationSettings>
       <method />
@@ -649,13 +714,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="22" width="1420" height="809" extended-state="0" />
-    <editor active="false" />
+    <frame x="103" y="22" width="1420" height="790" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946298" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39912918" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -672,11 +736,12 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946298" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.74891144" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25108853" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.88208956" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.117910445" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946298" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -745,6 +810,13 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/myStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="100" selection-start="98" selection-end="100" vertical-scroll-proportion="0.0">
@@ -760,6 +832,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="24" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0">
           <folding />
@@ -768,18 +843,13 @@
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
         <state />
       </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
-        <state />
-      </provider>
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/jQuery-2.0.3.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="19453" selection-start="83613" selection-end="83613" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="5" column="19453" selection-start="83613" selection-end="83613" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/404.jsp">
@@ -796,27 +866,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/constant/UserConstant.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/myJS.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="21" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#346#513#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/myStyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/ContentController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/constant/UserConstant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="34" selection-start="733" selection-end="737" vertical-scroll-proportion="0.0">
+        <state line="23" column="26" selection-start="749" selection-end="757" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -828,30 +887,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/ContentController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="14" selection-start="426" selection-end="613" vertical-scroll-proportion="-8.125">
+        <state line="20" column="39" selection-start="786" selection-end="786" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/myJS.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="20" selection-start="1116" selection-end="1123" vertical-scroll-proportion="-14.958333">
+        <state line="12" column="38" selection-start="734" selection-end="740" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/myStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="33" selection-start="175" selection-end="186" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/personPage.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="20" selection-start="1331" selection-end="1331" vertical-scroll-proportion="0.9385246">
+        <state line="3" column="33" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="55" selection-start="673" selection-end="673" vertical-scroll-proportion="0.49418604">
           <folding />
         </state>
       </provider>

@@ -3,23 +3,24 @@
 <html>
 <head>
     <link href="/resources/css/myStyle.css" rel="stylesheet">
+    <link href="/resources/css/demo.css" rel="stylesheet">
+    <link href="/resources/css/normalize.css" rel="stylesheet">
+    <link href="/resources/css/component.css" rel="stylesheet">
     <script type="text/javascript" src="/resources/js/jQuery-2.0.3.min.js"></script>
     <script type="text/javascript" src="/resources/js/myJS.js"></script>
-    <script>
-        $(function(){
-            $('.person').click(function(){
-                self.location="/content?user="+this.getAttribute("id");
-            });
-        });
-    </script>
+    <script type="text/javascript" src="/resources/js/modernizr.custom.js"></script>
 </head>
 <body style="background-color: #f19f0f;">
-	<h1 style="margin: auto; text-align: center; font-size: 50px; color: black;">${message}</h1>
-    <div id="personList">
-        <div class="person" id="honglai">占红来</div>
-        <div class="person" id="mingming">明明</div>
-        <div class="person" id="xuanzhou">周旋</div>
-        <div class="person" id="juanchen">大哥</div>
-    </div>
+<h1 style="margin: auto; text-align: center; font-size: 50px; color: black;">${message}</h1>
+
+<div style="width: 860px; margin: auto auto 20px;">
+    <nav class="cl-effect-12">
+        <div class="person"><a href="/content?user=mingming">明明</a></div>
+        <div class="person"><a href="/content?user=honglai">红来</a></div>
+        <div class="person"><a href="/content?user=juanchen">大哥</a></div>
+        <div class="person"><a href="/content?user=xuanzhou">周旋</a></div>
+    </nav>
+</div>
+
 </body>
 </html>
