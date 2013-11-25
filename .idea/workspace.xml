@@ -14,11 +14,11 @@
     <file path="$PROJECT_DIR$/../MyWeibo/pom.xml" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384916969670" ignored="false" />
     <file path="/pom.xml" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384916967791" ignored="false" />
     <file path="/ContentController.java" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1385101418234" ignored="false" />
-    <file path="/content.jsp" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1385358190505" ignored="false" />
+    <file path="/content.jsp" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1385369583865" ignored="false" />
     <file path="/fragment.java" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384958309568" ignored="false" />
     <file path="/UserConstant.java" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384958463159" ignored="false" />
     <file path="/a.dummy" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384957905564" ignored="false" />
-    <file path="/personPage.css" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1385040663027" ignored="false" />
+    <file path="/personPage.css" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1385364485455" ignored="false" />
     <file path="/__dummy.html" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384959167827" ignored="false" />
     <file path="/PayController.java" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384961668712" ignored="false" />
     <file path="/pay.jsp" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384961695226" ignored="false" />
@@ -95,7 +95,7 @@
       <file leaf-file-name="hello.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="38" selection-start="734" selection-end="740" vertical-scroll-proportion="0.0">
+            <state line="21" column="63" selection-start="1226" selection-end="1226" vertical-scroll-proportion="-13.125">
               <folding />
             </state>
           </provider>
@@ -122,7 +122,16 @@
       <file leaf-file-name="content.jsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="55" selection-start="673" selection-end="673" vertical-scroll-proportion="0.49418604">
+            <state line="67" column="39" selection-start="2555" selection-end="2555" vertical-scroll-proportion="1.9476744">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jQuery.extend.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/jQuery.extend.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="11" selection-start="1267" selection-end="1267" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -174,7 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/404.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/500.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/myPay-servlet.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -188,6 +196,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/css/myStyle.css" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/ContentController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/jQuery.extend.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/css/personPage.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content.jsp" />
       </list>
@@ -208,7 +217,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="103" />
+    <option name="x" value="20" />
     <option name="y" value="22" />
     <option name="width" value="1420" />
     <option name="height" value="790" />
@@ -485,8 +494,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -714,8 +723,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="103" y="22" width="1420" height="790" extended-state="0" />
-    <editor active="true" />
+    <frame x="20" y="22" width="1420" height="790" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -736,12 +745,12 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946298" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.88208956" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18704513" sideWeight="0.88208956" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.117910445" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946298" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -810,13 +819,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/myStyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="100" selection-start="98" selection-end="100" vertical-scroll-proportion="0.0">
@@ -832,18 +834,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="24" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
         <state />
       </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
         <state />
       </provider>
     </entry>
@@ -866,20 +868,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/myJS.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/constant/UserConstant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="26" selection-start="749" selection-end="757" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="44" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0">
@@ -894,23 +882,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/normalize.css">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/jQuery.extend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="11" selection-start="1267" selection-end="1267" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/myJS.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="38" selection-start="734" selection-end="740" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/myStyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="33" selection-start="175" selection-end="186" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -922,9 +910,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/myStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="33" selection-start="175" selection-end="186" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="63" selection-start="1226" selection-end="1226" vertical-scroll-proportion="-13.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/constant/UserConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="26" selection-start="749" selection-end="757" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="55" selection-start="673" selection-end="673" vertical-scroll-proportion="0.49418604">
+        <state line="67" column="39" selection-start="2555" selection-end="2555" vertical-scroll-proportion="1.9476744">
           <folding />
         </state>
       </provider>

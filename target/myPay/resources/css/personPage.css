@@ -8,18 +8,18 @@
     margin-bottom: 10px;
 }
 
-.summary .number{
+.summary .number {
     display: inline-block;
     margin-left: 20px;
     width: 500px;
 }
 
-.function{
+.function {
     width: 800px;
     margin: 10px auto auto;
 }
 
-.function div{
+.function div {
     display: inline-block;
     font-size: 35px;
     text-align: center;
@@ -32,7 +32,7 @@
     margin-right: 10px;
 }
 
-.function div:hover{
+.function div:hover {
     background-color: #f19f0f;
 }
 
@@ -43,7 +43,7 @@
     background-color: #f19f0f;
 }
 
-.clicked{
+.clicked {
     background-color: #f19f0f;
 }
 
@@ -53,7 +53,7 @@
     font-family: fantasy;
 }
 
-.function_display .confirm{
+.function_display .confirm {
     margin-left: -10px;
     padding-top: 10px;
     background-color: forestgreen;
@@ -64,11 +64,20 @@
     font-size: 40px;
 }
 
-.personList{
+.function_display input {
+    height: 40px;
+    background-color: forestgreen;
+    font-size: 25px;
+    width: 100px;
+    text-align: center;
+    margin-left: 2px
+}
+
+.personList {
     display: inline-block;
 }
 
-.personList div{
+.personList div {
     width: 102px;
     height: 102px;
     background-color: forestgreen;
@@ -77,6 +86,6 @@
     cursor: pointer;
 }
 
-.eat{
+.eat {
     background: url('/resources/image/bowl.png') no-repeat 25px 40px;
 }
