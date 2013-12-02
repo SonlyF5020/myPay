@@ -18,14 +18,14 @@
                 step: function () {
                     $this.text(Math.floor(this.value));
                     if (commas) {
-                        $this.text($this.text().replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1,"));
+                        $this.text($this.text().replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1"));
                     }
                 },
                 complete: function () {
                     if (parseInt($this.text()) !== stop) {
                         $this.text(stop);
                         if (commas) {
-                            $this.text($this.text().replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1,"));
+                            $this.text($this.text().replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1"));
                         }
                     }
                 }

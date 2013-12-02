@@ -32,19 +32,12 @@
     margin-right: 10px;
 }
 
-.function div:hover {
-    background-color: #f19f0f;
-}
-
 .function_display {
     width: 800px;
     height: 360px;
     margin: auto;
-    background-color: #f19f0f;
-}
-
-.clicked {
-    background-color: #f19f0f;
+    background-color: antiquewhite;
+    color: #000000;
 }
 
 .function_display div {
@@ -64,13 +57,19 @@
     font-size: 40px;
 }
 
+.function_display .confirm a {
+    text-decoration: none;
+    cursor: pointer;
+    color: #ffffff;
+}
+
 .function_display input {
     height: 40px;
-    background-color: forestgreen;
     font-size: 25px;
     width: 100px;
     text-align: center;
-    margin-left: 2px
+    margin-left: 2px;
+    border: solid;
 }
 
 .personList {
@@ -78,14 +77,32 @@
 }
 
 .personList div {
-    width: 102px;
+    width: 160px;
     height: 102px;
-    background-color: forestgreen;
+    background-color: #ffffff;
     display: inline-block;
     text-align: center;
     cursor: pointer;
+    font-family: monospace;
+    border: solid;
+}
+
+.personDetail {
+    width: 200px;
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    display: inline-block;
+    text-align: center;
+    line-height: 200px;
+    font-size: 35px;
+    cursor: pointer;
+    font-family: fantasy;
+    color: black;
 }
 
 .eat {
-    background: url('/resources/image/bowl.png') no-repeat 25px 40px;
+    background: url('/resources/image/bowl.png') no-repeat 55px 40px;
 }

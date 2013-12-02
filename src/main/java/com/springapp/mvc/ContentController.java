@@ -1,6 +1,7 @@
 package com.springapp.mvc;
 
 import com.springapp.mvc.constant.UserConstant;
+import com.springapp.mvc.persistence.PersistenceUserStore;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -20,6 +21,8 @@ public class ContentController {
         session.setAttribute("User", user);
         model.addAttribute("User", user);
         model.addAttribute("UserChineseName", UserConstant.getChineseName(user));
+        model.addAttribute("UserMoney", PersistenceUserStore.getMoneyOf(user));
         return "content";
     }
+
 }

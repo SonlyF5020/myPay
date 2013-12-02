@@ -3,9 +3,13 @@ package com.springapp.mvc.constant;
 import com.google.common.base.Predicate;
 import com.google.common.collect.Iterables;
 
+import java.util.List;
+
 import static com.google.common.collect.Lists.newArrayList;
 
 public class UserConstant {
+
+    public static List<User> userList = newArrayList(User.HONGLAI,User.JUANCHEN,User.MINGMING,User.XUANZHOU);
 
     public static String getChineseName(final String userID) {
         User targetUser = Iterables.find(newArrayList(User.values()), new Predicate<User>() {
@@ -14,7 +18,7 @@ public class UserConstant {
                 return user.getID().equals(userID);
             }
         });
-        return targetUser==null? "UnknowUser" : targetUser.getChineseName();
+        return targetUser==null? "陌生人" : targetUser.getChineseName();
     }
 
     public enum User{

@@ -10,7 +10,7 @@
     <script type="text/javascript" src="/resources/js/myJS.js"></script>
     <script type="text/javascript" src="/resources/js/modernizr.custom.js"></script>
 </head>
-<body style="background-color: #f19f0f;">
+<body style="background-color: antiquewhite;">
 <h1 style="margin: auto; text-align: center; font-size: 50px; color: black;">${message}</h1>
 
 <div style="width: 860px; margin: auto auto 20px;">
