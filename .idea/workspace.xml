@@ -5,7 +5,7 @@
     <ignored path="myPay.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/hello.jsp" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1385048707720" ignored="false" />
-    <file path="/Dummy.txt" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384963190865" ignored="false" />
+    <file path="/Dummy.txt" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1386084032428" ignored="false" />
     <file path="/myStyle.css" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1385049142341" ignored="false" />
     <file path="/web.xml" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384916895892" ignored="false" />
     <file path="/404.jsp" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384913446307" ignored="false" />
@@ -14,20 +14,20 @@
     <file path="$PROJECT_DIR$/../MyWeibo/pom.xml" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384916969670" ignored="false" />
     <file path="/pom.xml" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384916967791" ignored="false" />
     <file path="/ContentController.java" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1386022495382" ignored="false" />
-    <file path="/content.jsp" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1386021044626" ignored="false" />
+    <file path="/content.jsp" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1386041955156" ignored="false" />
     <file path="/fragment.java" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1386020690504" ignored="false" />
     <file path="/UserConstant.java" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1386020156035" ignored="false" />
-    <file path="/a.dummy" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384957905564" ignored="false" />
-    <file path="/personPage.css" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1385471063302" ignored="false" />
+    <file path="/a.dummy" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1386083876158" ignored="false" />
+    <file path="/personPage.css" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1386041909912" ignored="false" />
     <file path="/__dummy.html" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384959167827" ignored="false" />
     <file path="/PayController.java" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384961668712" ignored="false" />
-    <file path="/pay.jsp" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1384961695226" ignored="false" />
+    <file path="/pay.jsp" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1386039901290" ignored="false" />
     <file path="/fragment.js2" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1385467936623" ignored="false" />
     <file path="/MoneyDetail.java" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1385628305971" ignored="false" />
     <file path="/MoneyDetailController.java" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1386022956169" ignored="false" />
     <file path="/paySuccess.jsp" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1386023378323" ignored="false" />
-    <file path="/UserDetail.java" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1386019045521" ignored="false" />
-    <file path="/PersistenceUserStore.java" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1386020920582" ignored="false" />
+    <file path="/UserDetail.java" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1386084212342" ignored="false" />
+    <file path="/PersistenceUserStore.java" changelist="73d403c9-f6dd-4ee5-9616-4cbf677e574d" time="1386644971455" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,33 +88,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HelloController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="60" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
+            <state line="68" column="7" selection-start="2256" selection-end="2256" vertical-scroll-proportion="0.30232558">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="52" selection-start="307" selection-end="369" vertical-scroll-proportion="-3.75">
-              <folding>
-                <element signature="tag#script#3;tag#head#0;tag#html#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MoneyDetailController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/MoneyDetailController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="41" selection-start="1854" selection-end="1854" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -122,10 +100,17 @@
       <file leaf-file-name="PersistenceUserStore.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/persistence/PersistenceUserStore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="25" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="10" column="45" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MoneyDetailController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/MoneyDetailController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="29" selection-start="1792" selection-end="1792" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -133,41 +118,30 @@
       <file leaf-file-name="UserConstant.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/constant/UserConstant.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="25" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0">
+            <state line="17" column="23" selection-start="596" selection-end="596" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserDetail.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/userDetail/UserDetail.java">
+      <file leaf-file-name="demo.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/demo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="29" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
+            <state line="61" column="17" selection-start="1312" selection-end="1312" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContentController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/ContentController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="47" selection-start="977" selection-end="977" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
+      <file leaf-file-name="right.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/image/right.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="paySuccess.jsp" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/paySuccess.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="32" selection-start="507" selection-end="507" vertical-scroll-proportion="0.5445545">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="normalize.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/normalize.css">
+      <file leaf-file-name="myJS.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/myJS.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -175,10 +149,26 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="personPage.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/personPage.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="114" column="43" selection-start="2037" selection-end="2037" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="money.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/image/money.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="hello.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="38" selection-start="647" selection-end="647" vertical-scroll-proportion="-0.041666668">
+            <state line="12" column="46" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -194,22 +184,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/myJS.js" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/PayController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/pay.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/css/myStyle.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/js/jQuery.extend.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/personPage.css" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/money/MoneyDetail.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/userDetail/UserDetail.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/persistence/PersistenceUserStore.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/constant/UserConstant.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/ContentController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/MoneyDetailController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/paySuccess.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/included/pay.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/personPage.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/constant/UserConstant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/userDetail/UserDetail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/MoneyDetailController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/persistence/PersistenceUserStore.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -227,9 +217,47 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="myPay" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="myPay" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Profiles" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProfilesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="139" />
-    <option name="y" value="34" />
+    <option name="x" value="130" />
+    <option name="y" value="22" />
     <option name="width" value="1299" />
     <option name="height" value="809" />
   </component>
@@ -384,6 +412,40 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="included" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myPay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myPay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -415,6 +477,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -571,13 +637,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="reference.settings.project.maven.repository.indices" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -585,9 +656,9 @@
       <recent name="com.springapp.mvc.constant" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/resources/image" />
       <recent name="$PROJECT_DIR$/src/main/webapp/resources/js" />
       <recent name="$PROJECT_DIR$/src/main/webapp/resources/css" />
-      <recent name="$PROJECT_DIR$/src/main/webapp/resources/image" />
       <recent name="$PROJECT_DIR$/src/main/webapp" />
     </key>
   </component>
@@ -596,6 +667,28 @@
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -786,6 +879,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="73d403c9-f6dd-4ee5-9616-4cbf677e574d" name="Default" comment="" />
@@ -795,8 +905,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="139" y="34" width="1299" height="809" extended-state="0" />
-    <editor active="false" />
+    <frame x="130" y="22" width="1299" height="809" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -809,12 +919,11 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985073" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32960895" sideWeight="0.5674891" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946298" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1867518" sideWeight="0.5674891" order="0" side_tool="false" content_ui="combo" />
@@ -823,6 +932,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946298" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -891,9 +1001,11 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/personPage.css">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/paySuccess.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="1" selection-start="1254" selection-end="1254" vertical-scroll-proportion="0.0" />
+        <state line="11" column="32" selection-start="507" selection-end="507" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/myPay-servlet.xml">
@@ -903,115 +1015,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/included/pay.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="22" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0">
+        <state line="10" column="80" selection-start="730" selection-end="730" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/image/bowl.png">
+      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="11" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/500.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="7" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/modernizr.custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="161" column="29" selection-start="6197" selection-end="6197" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/userDetail/UserDetail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="29" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="60" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/constant/UserConstant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="25" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0">
+        <state line="17" column="27" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/persistence/PersistenceUserStore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="25" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/ContentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="47" selection-start="977" selection-end="977" vertical-scroll-proportion="0.0">
+        <state line="10" column="45" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/MoneyDetailController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="41" selection-start="1854" selection-end="1854" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="52" selection-start="307" selection-end="369" vertical-scroll-proportion="-3.75">
-          <folding>
-            <element signature="tag#script#3;tag#head#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="38" selection-start="647" selection-end="647" vertical-scroll-proportion="-0.041666668">
+        <state line="41" column="29" selection-start="1792" selection-end="1792" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/paySuccess.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/constant/UserConstant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="32" selection-start="507" selection-end="507" vertical-scroll-proportion="0.5445545">
+        <state line="17" column="23" selection-start="596" selection-end="596" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="17" selection-start="1312" selection-end="1312" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/image/right.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/myJS.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/personPage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="43" selection-start="2037" selection-end="2037" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/image/money.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="46" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="7" selection-start="2256" selection-end="2256" vertical-scroll-proportion="0.30232558">
           <folding />
         </state>
       </provider>

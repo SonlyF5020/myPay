@@ -9,7 +9,6 @@
     <script>
         var href1 = "/content?user="+"${payer}";
         $(function(){
-            alert(href1 + "1");
             $('#return').attr("href",href1);
         });
     </script>

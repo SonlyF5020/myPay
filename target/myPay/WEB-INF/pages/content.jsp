@@ -19,8 +19,16 @@
 
             $(".function div:first").click();
 
-            $(".personList div").click(function () {
+            $("div[name='pay'] .personList div").click(function () {
                 $(this).toggleClass("eat");
+            });
+
+            $("div[name='giveBack'] .personList div").hover(function () {
+                $(this).removeClass("money");
+                $(this).addClass("right");
+            }, function () {
+                $(this).removeClass("right");
+                $(this).addClass("money");
             });
 
             var initialUser = function () {
@@ -89,10 +97,10 @@
                 var userInfo = $('form input:gt(2)[type!="submit"]');
 
                 $.each(userInfo, function (index, value) {
-                    if($scope.users[index].name == currentUser[0].name){
+                    if ($scope.users[index].name == currentUser[0].name) {
                         $(value).val($scope.totalMoney - currentUser[0].money);
-                    }else{
-                        $(value).val("-"+$scope.users[index].money);
+                    } else {
+                        $(value).val("-" + $scope.users[index].money);
                     }
                 });
 
@@ -102,22 +110,27 @@
 
         controllers.FunctionController = function ($scope) {
             $scope.functions = [
-                { name: '买单', url: '/todo'},
-                { name: '还钱', url: '/todo'},
-                { name: '借钱', url: '/todo'}
+                { name: 'pay', url: '/todo', displayName: '买单'},
+                { name: 'giveBack', url: '/todo', displayName: '还钱'},
+                { name: 'borrow', url: '/todo', displayName: '借钱'}
             ];
+
+            $scope.selectFunc = function (func) {
+                $('div.function_display').hide();
+                $('div.function_display[name=' + func.name + ']').show();
+            };
         };
 
-        controllers.FormController = function($scope) {
+        controllers.FormController = function ($scope) {
             $scope.formOptions = [
-                {type:'text', name:'money'},
-                {type:'text', name:'payer'},
-                {type:'text', name:'payerScore'},
-                {type:'text', name:'m_honglai'},
-                {type:'text', name:'m_mingming'},
-                {type:'text', name:'m_xuanzhou'},
-                {type:'text', name:'m_juanchen'},
-                {type:'submit', name:'submit'}
+                {type: 'text', name: 'money'},
+                {type: 'text', name: 'payer'},
+                {type: 'text', name: 'payerScore'},
+                {type: 'text', name: 'm_honglai'},
+                {type: 'text', name: 'm_mingming'},
+                {type: 'text', name: 'm_xuanzhou'},
+                {type: 'text', name: 'm_juanchen'},
+                {type: 'submit', name: 'submit'}
             ];
         }
 
@@ -133,29 +146,24 @@
 </div>
 
 <div class="function" data-ng-controller="FunctionController">
-    <div data-ng-repeat="function in functions">{{function.name}}</div>
+    <div data-ng-repeat="function in functions" ng-click="selectFunc(function)">{{function.displayName}}</div>
     <div style="margin-right: 0px">清帐</div>
 </div>
+<jsp:include page="/WEB-INF/pages/included/pay.jsp"></jsp:include>
 
-<div class="function_display" data-ng-controller="UserController">
+<div class="function_display" name="giveBack">
     <div>
         <p style="margin-bottom: 0px;display: inline-block">金额</p>
-        <input type="text" name="totalMoney" ng-model="totalMoney" ng-change="updateEatMoney()">
+        <input type="text" name="totalMoney">
     </div>
     <div style="margin-top: 34px;">
-        <div style="margin-bottom: 0px;display: inline-block;margin-left: 0px;height: 102px">人头</div>
+        <div style="margin-bottom: 0px;display: inline-block;margin-left: 0px;height: 102px">还给</div>
         <div class="personList" style="margin-left: -20px;">
-            <div name={{user.name}} data-ng-repeat="user in users" ng-click="updateMoney(user)">
-                {{user.chineseName}}{{user.money}}
-            </div>
+            <div class="money">明明</div>
         </div>
     </div>
-    <div class="confirm"><a id="submit" ng-click="submitOrder()">确认</a></div>
+    <div class="confirm"><a id="submit">确认</a></div>
 </div>
-
-<form method="post" action="/moneyDetail" style="display: none" id="moneyDetailTable" data-ng-controller="FormController">
-    <input name="{{form.name}}" type="{{form.type}}" data-ng-repeat="form in formOptions">
-</form>
 
 </body>
 </html>

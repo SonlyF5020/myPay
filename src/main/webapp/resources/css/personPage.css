@@ -106,3 +106,11 @@
 .eat {
     background: url('/resources/image/bowl.png') no-repeat 55px 40px;
 }
+
+.right{
+    background: url('/resources/image/right.png') no-repeat 55px 40px;
+}
+
+.money{
+    background: url('/resources/image/money.png') no-repeat 55px 40px;
+}

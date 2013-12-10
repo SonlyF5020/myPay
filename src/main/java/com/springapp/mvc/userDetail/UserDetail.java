@@ -13,4 +13,8 @@ public class UserDetail {
     public void setMoney(double money) {
         this.money = money;
     }
+
+    public String getName() {
+        return (String) user.getID();
+    }
 }

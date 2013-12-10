@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
+import java.sql.SQLException;
 import java.util.List;
 
 import static com.google.common.collect.Lists.newArrayList;
@@ -25,7 +26,7 @@ public class MoneyDetailController {
                          @RequestParam("m_mingming") String m_mingming,
                          @RequestParam("m_xuanzhou") String m_xuanzhou,
                          @RequestParam("m_juanchen") String m_juanchen,
-                         Model model) {
+                         Model model) throws SQLException {
 
         List<UserDetail> userDetailList = newArrayList();
         List<String> userMoney = newArrayList(m_honglai, m_juanchen, m_mingming, m_xuanzhou);
